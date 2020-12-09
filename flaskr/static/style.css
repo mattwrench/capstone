@@ -1,0 +1,18 @@
+body {
+    background-color: #c5e1f7;
+}
+
+.card {
+    width: 577px;
+}
+
+.container {
+    background-color: #eeeeee;
+    width: 1200px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.jumbotron {
+    background-color: #999999;
+}
